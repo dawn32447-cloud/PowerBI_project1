@@ -25,3 +25,5 @@ Power Query: For data cleaning and transformation (ETL).
 DAX (Data Analysis Expressions): For creating calculated measures and columns.
 
 Dataset: E-commerce sales data (Orders and Details tables).
+
+This E-commerce Sales Dashboard provides a comprehensive, at-a-glance view of business performance, transforming raw data into actionable intelligence.
